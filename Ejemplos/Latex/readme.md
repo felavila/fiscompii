@@ -14,7 +14,7 @@ sudo tlmgr install latexmk
 sudo tlmgr install biber
 ```
 
-Luego  descomprimir el archivo zip y dentro de la carpeta:
+Luego  descomprimir el archivo zip y dentro del directorio:
 
 
 ```bash
