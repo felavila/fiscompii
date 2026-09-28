@@ -25,7 +25,7 @@ El repositorio incluirá:
 
 ## Entorno de Python
 
-Para crear el entorno utilizado durante el curso se puede ejecutar:
+Para crear el entorno que usaremos durante el curso se puede ejecutar:
 
 ```bash
 conda create -n compii python=3.12 numpy=2.1.3 pandas=2.2.3 matplotlib=3.10.0 jupyter
