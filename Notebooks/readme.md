@@ -12,4 +12,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase_3_matplotlib.ipynb)
 
+### clase 4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase4_pandas.ipynb)
 
