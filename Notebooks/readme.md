@@ -16,3 +16,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase4_pandas.ipynb)
 
+### clase 5
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase5_lecturayescritura.ipynb)
