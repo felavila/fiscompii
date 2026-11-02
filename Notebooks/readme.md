@@ -19,3 +19,7 @@
 ### clase 5
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase5_lecturayescritura.ipynb)
+
+### clase 6
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felavila/fiscompii/blob/main/Notebooks/Clase6_resumen.ipynb)
